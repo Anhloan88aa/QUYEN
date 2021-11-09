@@ -71,7 +71,7 @@
 	
 	/*
 	 *
-	 *Mã nguồn được viết bởi NTKhang, vui lòng không thay đổi tên tác giả ở bất kỳ tệp nào. Cảm ơn bạn đã sử dụng
-	 *The source code is written by Hoang_Xuan_Quyen please don't change the author's name everywhere. Thank you for using 
+	 *Mã nguồn được viết bởi Hoang_Xuan_Quyen, vui lòng không thay đổi tên tác giả ở bất kỳ tệp nào. Cảm ơn bạn đã sử dụng
+	 *The source code is written by Hoang_Xuan_Quyen, please don't change the author's name everywhere. Thank you for using 
 	 *
 	 */
