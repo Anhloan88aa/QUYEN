@@ -1,9 +1,9 @@
 {
   "name": "goat-bot",
-  "version": "1.1.8",
-  "description": "A simple Bot chat messenger made by Hoang_Xuan_Quyen",
+  "version": "1.1.9",
+  "description": "A simple Bot chat messenger made by NTKhang",
   "main": "index.js",
-  "author": "Hoang_Xuan_Quyen",
+  "author": "NTKhang",
   "scripts": {
     "start": "node index.js",
     "update": "node update.js"
@@ -13,13 +13,13 @@
     "url": "git+https://github.com/anhloan88aa/QUYEN.git"
   },
   "bugs": {
-    "url": "https://github.com/ntkhang03/QUYEN/issues"
+    "url": "https://github.com/anhloan88aa/QUYEN/issues"
   },
   "keywords": [
     "bot-chat-messenger",
     "bot-messenger",
     "bot-chat-goat",
-    "QUYEN Chat Bot"
+    "GoatBot Chat Bot"
   ],
   "license": "GPL-3.0",
   "dependencies": {
